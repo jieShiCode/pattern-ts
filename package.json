@@ -1,0 +1,22 @@
+{
+  "name": "pattern-space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "rollup -w -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^12.1.2",
+    "rollup": "^4.28.1",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "tslib": "^2.8.1"
+  }
+}
